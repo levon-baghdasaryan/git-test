@@ -14,5 +14,10 @@ branch 5 three
 branch 5 four
 main 11
 main 12
+<<<<<<< HEAD
 main 13
 branch 5 five
+=======
+branch 5 five
+branch 5 six
+>>>>>>> 01155b8 (branch5 six)
